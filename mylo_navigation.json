@@ -1,0 +1,282 @@
+[
+    {
+        "navigation_target": "My Orders",
+        "url": "",
+        "parameters": {
+            "deeplink": 115
+        }
+    },
+    {
+        "navigation_target": "My Coupons",
+        "url": "",
+        "parameters": {
+            "deeplink": 82
+        }
+    },
+    {
+        "navigation_target": "Need Help",
+        "url": "",
+        "parameters": {
+            "deeplink": 147
+        }
+    },
+    {
+        "navigation_target": "Help Page",
+        "url": "",
+        "parameters": {
+            "deeplink": 147
+        }
+    },
+    {
+        "navigation_target": "Weekly Tracker",
+        "url": "",
+        "parameters": {
+            "deeplink": 12
+        }
+    },
+    {
+        "navigation_target": "Weekly Pregnancy Tracker",
+        "url": "",
+        "parameters": {
+            "deeplink": 12
+        }
+    },
+    {
+        "navigation_target": "Baby Diet Chart",
+        "url": "",
+        "parameters": {
+            "deeplink": 49
+        }
+    },
+    {
+        "navigation_target": "My Saved Items",
+        "url": "",
+        "parameters": {
+            "deeplink": 47
+        }
+    },
+    {
+        "navigation_target": "EARN COINS",
+        "url": "",
+        "parameters": {
+            "deeplink": 69
+        }
+    },
+    {
+        "navigation_target": "Loyalty Points",
+        "url": "",
+        "parameters": {
+            "deeplink": 69
+        }
+    },
+    {
+        "navigation_target": "My Tags",
+        "url": "",
+        "parameters": {
+            "deeplink": 143
+        }
+    },
+    {
+        "navigation_target": "Search Screen",
+        "url": "",
+        "parameters": {
+            "deeplink": 70
+        }
+    },
+    {
+        "navigation_target": "My Badges",
+        "url": "",
+        "parameters": {
+            "deeplink": 142
+        }
+    },
+    {
+        "navigation_target": "Unanswered Questions",
+        "url": "",
+        "parameters": {
+            "deeplink": 65
+        }
+    },
+    {
+        "navigation_target": "FAQs",
+        "url": "",
+        "parameters": {
+            "deeplink": 65
+        }
+    },
+    {
+        "navigation_target": "Change Language",
+        "url": "",
+        "parameters": {
+            "deeplink": 144
+        }
+    },
+    {
+        "navigation_target": "Change Stage",
+        "url": "",
+        "parameters": {
+            "deeplink": 3010
+        }
+    },
+    {
+        "navigation_target": "Settings",
+        "url": "",
+        "parameters": {
+            "deeplink": 48
+        }
+    },
+    {
+        "navigation_target": "My Cart",
+        "url": "",
+        "parameters": {
+            "deeplink": 80
+        }
+    },
+    {
+        "navigation_target": "WEIGHT TRACKER",
+        "url": "",
+        "parameters": {
+            "deeplink": 45
+        }
+    },
+    {
+        "navigation_target": "PREGNANCY CALENDAR",
+        "url": "",
+        "parameters": {
+            "deeplink": 44
+        }
+    },
+    {
+        "navigation_target": "Profile",
+        "url": "",
+        "parameters": {
+            "deeplink": 11
+        }
+    },
+    {
+        "navigation_target": "Edit Profile",
+        "url": "",
+        "parameters": {
+            "deeplink": 16
+        }
+    },
+    {
+        "navigation_target": "Community Guidelines",
+        "url": "",
+        "parameters": {
+            "deeplink": 21
+        }
+    },
+    {
+        "navigation_target": "My NOTIFICATIONs",
+        "url": "",
+        "parameters": {
+            "deeplink": 30
+        }
+    },
+    {
+        "navigation_target": "SCAN TEST UTILITY",
+        "url": "",
+        "parameters": {
+            "deeplink": 40
+        }
+    },
+    {
+        "navigation_target": "Baby Names",
+        "url": "https://mylofamily.com/parenting/babynames",
+        "parameters": {
+            "deeplink": 61
+        }
+    },
+    {
+        "navigation_target": "Milk Bank",
+        "url": "https://mylofamily.com/tools/milk-bank",
+        "parameters": {
+            "deeplink": 61
+        }
+    },
+    {
+        "navigation_target": "REPORT PREGNANCY",
+        "url": "",
+        "parameters": {
+            "deeplink": 43
+        }
+    },
+    {
+        "navigation_target": "My Activity",
+        "url": "",
+        "parameters": {
+            "deeplink": 52
+        }
+    },
+    {
+        "navigation_target": "PILL REMINDER",
+        "url": "",
+        "parameters": {
+            "deeplink": 53
+        }
+    },
+    {
+        "navigation_target": "BABY SLEEP",
+        "url": "",
+        "parameters": {
+            "deeplink": 54
+        }
+    },
+    {
+        "navigation_target": "HOROSCOPE",
+        "url": "",
+        "parameters": {
+            "deeplink": 55
+        }
+    },
+    {
+        "navigation_target": "PREGNANCY MUSIC",
+        "url": "",
+        "parameters": {
+            "deeplink": 58
+        }
+    },
+    {
+        "navigation_target": "Ovulation Calculator",
+        "url": "",
+        "parameters": {
+            "deeplink": 17
+        }
+    },
+    {
+        "navigation_target": "Make Baby Sleep",
+        "url": "",
+        "parameters": {
+            "deeplink": 54
+        }
+    },
+    {
+        "navigation_target": "Due date calculator",
+        "url": "https://mylofamily.com/tools/duedatecalculator",
+        "parameters": {
+            "deeplink": 61
+        }
+    },
+    {
+        "navigation_target": "Vaccination Tracker",
+        "url": "https://mylofamily.com/tools/vaccination",
+        "parameters": {
+            "deeplink": 61
+        }
+    },
+    {
+        "navigation_target": "Ovulation Calendar",
+        "url": "",
+        "parameters": {
+            "deeplink": 17
+        }
+    },
+    {
+        "navigation_target": "My Notes",
+        "url": "",
+        "parameters": {
+            "deeplink": 19
+        }
+    }
+]
